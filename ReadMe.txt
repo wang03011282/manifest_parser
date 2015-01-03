@@ -1,0 +1,1 @@
+﻿该python脚本用于解析Android repo仓库的manifest.xml文件，根据该文件中的project反向建立repo库
